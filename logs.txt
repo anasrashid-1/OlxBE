@@ -1,0 +1,17 @@
+method : GET, URL : /posts?q=Air, Time : 404, Time taken to complete the request : 6 milliseconds 
+
+method : GET, URL : /posts?q=Air, Time : 91, Time taken to complete the request : 7 milliseconds 
+
+method : GET, URL : /posts?q=Air, Time : 313, Time taken to complete the request : 3 milliseconds 
+
+method : GET, URL : /posts?q=Air, Time : 426, Time taken to complete the request : 3 milliseconds 
+
+method : GET, URL : /posts?q=Air, Time : 651, Time taken to complete the request : 15 milliseconds 
+
+method : GET, URL : /posts, Time : 807, Time taken to complete the request : 7 milliseconds 
+
+method : GET, URL : /posts, Time : 103, Time taken to complete the request : 7 milliseconds 
+
+method : POST, URL : /signup, Request Time : 391, Response Time : 483 Time taken to complete the request : 92 milliseconds 
+method : POST, URL : /login, Request Time : 116, Response Time : 120 Time taken to complete the request : 4 milliseconds 
+method : POST, URL : /login, Request Time : 740, Response Time : 742 Time taken to complete the request : 2 milliseconds 
